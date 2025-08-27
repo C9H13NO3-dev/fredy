@@ -76,6 +76,7 @@
     "node-mailjet": "6.0.9",
     "p-throttle": "^7.0.0",
     "package-up": "^5.0.0",
+    "pg": "8.16.3",
     "puppeteer": "^24.17.0",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
