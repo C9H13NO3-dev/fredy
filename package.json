@@ -70,6 +70,7 @@
     "lowdb": "6.0.1",
     "markdown": "^0.5.0",
     "mixpanel": "^0.18.1",
+    "nano": "10.1.4",
     "nanoid": "5.1.5",
     "node-fetch": "3.3.2",
     "node-mailjet": "6.0.9",
