@@ -54,6 +54,7 @@
     "Firefox ESR"
   ],
   "dependencies": {
+    "@supabase/supabase-js": "^2.47.10",
     "@douyinfe/semi-ui": "2.85.0",
     "@rematch/core": "2.2.0",
     "@rematch/loading": "2.1.2",
